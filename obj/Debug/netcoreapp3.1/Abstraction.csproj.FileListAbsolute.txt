@@ -1,0 +1,13 @@
+D:\19.11.2884\Pemrogramman\Abstraction\obj\Debug\netcoreapp3.1\Abstraction.csprojAssemblyReference.cache
+D:\19.11.2884\Pemrogramman\Abstraction\obj\Debug\netcoreapp3.1\Abstraction.csproj.CoreCompileInputs.cache
+D:\19.11.2884\Pemrogramman\Abstraction\obj\Debug\netcoreapp3.1\Abstraction.AssemblyInfoInputs.cache
+D:\19.11.2884\Pemrogramman\Abstraction\obj\Debug\netcoreapp3.1\Abstraction.AssemblyInfo.cs
+D:\19.11.2884\Pemrogramman\Abstraction\bin\Debug\netcoreapp3.1\Abstraction.exe
+D:\19.11.2884\Pemrogramman\Abstraction\bin\Debug\netcoreapp3.1\Abstraction.deps.json
+D:\19.11.2884\Pemrogramman\Abstraction\bin\Debug\netcoreapp3.1\Abstraction.runtimeconfig.json
+D:\19.11.2884\Pemrogramman\Abstraction\bin\Debug\netcoreapp3.1\Abstraction.runtimeconfig.dev.json
+D:\19.11.2884\Pemrogramman\Abstraction\bin\Debug\netcoreapp3.1\Abstraction.dll
+D:\19.11.2884\Pemrogramman\Abstraction\bin\Debug\netcoreapp3.1\Abstraction.pdb
+D:\19.11.2884\Pemrogramman\Abstraction\obj\Debug\netcoreapp3.1\Abstraction.dll
+D:\19.11.2884\Pemrogramman\Abstraction\obj\Debug\netcoreapp3.1\Abstraction.pdb
+D:\19.11.2884\Pemrogramman\Abstraction\obj\Debug\netcoreapp3.1\Abstraction.genruntimeconfig.cache
